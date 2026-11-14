@@ -1,0 +1,1 @@
+{"version": 1, "method": "local-dataset", "status": "completed", "startedAt": "2026-10-30T12:09:46.517Z", "updatedAt": "2026-10-30T12:26:01.546Z", "finishedAt": "2026-10-30T12:26:01.546Z", "total": 4750, "processed": 4750, "success": 3797, "failed": 953, "remaining": 953, "elapsedSeconds": 975, "pausedSeconds": 0, "etaSeconds": null}
